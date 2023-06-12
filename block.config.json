@@ -1,0 +1,21 @@
+{
+  "name": "athultest20",
+  "type": "package",
+  "blockId": "hLKEly6TOBwhtW-Vs7UTc",
+  "source": {
+    "https": "https://github.com/uttahb/athultest20.git",
+    "ssh": "git@github.com:uttahb/athultest20.git",
+    "branch": "block_athultest20"
+  },
+  "parentBlockIDs": [],
+  "isPublic": true,
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "repoType": "mono",
+  "dependencies": {
+    "athultest20pack": {
+      "directory": "athultest20pack"
+    }
+  }
+}
