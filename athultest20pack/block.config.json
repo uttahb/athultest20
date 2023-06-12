@@ -1,0 +1,18 @@
+{
+  "blockId": "ekoH3gakei3IssyY1VAqs",
+  "name": "athultest20pack",
+  "type": "package",
+  "source": {
+    "https": null,
+    "ssh": null,
+    "branch": "block_athultest20pack"
+  },
+  "parentBlockIDs": [
+    "hLKEly6TOBwhtW-Vs7UTc"
+  ],
+  "repoType": "mono",
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "isPublic": true
+}
